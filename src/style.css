@@ -1,0 +1,22 @@
+.mainTitle{
+    font-size: 3em;
+    text-align: center;
+    font-family: 'Moonrising';
+}
+
+.head{
+    background-color: aquamarine;
+    padding: 1rem;
+}
+
+.backColor{
+    background-color: lightcyan;
+}
+
+.subtitle{
+    font-size: 2rem;
+}
+
+p{
+    font-size: 1.2rem;
+}
